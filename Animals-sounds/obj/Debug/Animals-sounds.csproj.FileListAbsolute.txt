@@ -1,0 +1,9 @@
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds\Animals-sounds\bin\Debug\Animals-sounds.exe.config
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds\Animals-sounds\bin\Debug\Animals-sounds.exe
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds\Animals-sounds\bin\Debug\Animals-sounds.pdb
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds\Animals-sounds\obj\Debug\Animals-sounds.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds\Animals-sounds\obj\Debug\Animals-sounds.exe
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds\Animals-sounds\obj\Debug\Animals-sounds.pdb
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds-refactor\Animals-sounds\bin\Debug\Animals-sounds.exe.config
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds-refactor\Animals-sounds\obj\Debug\Animals-sounds.exe
+C:\Users\Bogdan_Asus\Desktop\Animals-sounds-refactor\Animals-sounds\obj\Debug\Animals-sounds.pdb
